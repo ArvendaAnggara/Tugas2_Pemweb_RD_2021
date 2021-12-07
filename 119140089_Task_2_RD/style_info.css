@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+}
+body {
+    background-color: bisque;
+    
+}
+table{
+    font-family:sans-serif;
+    border: 2px solid #e74c3c;
+    max-width: 500px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 5px;
+}
+   
+}
+table td{
+    padding: 8px;
+    text-align: justify;
+
+}
+table th{
+    text-align: justify;
+}
+.footer {
+    background:#343050;
+    position: absolute;  
+    bottom: 0 ;
+    width: 100%;
+    text-align:center ;
+    color:white;
+}
